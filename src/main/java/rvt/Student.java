@@ -82,6 +82,7 @@ public class Student {
         System.out.println("No student found with Personas ID " + personasKods + ".");
     }
 
+    //11
 
     public void register() {
 
